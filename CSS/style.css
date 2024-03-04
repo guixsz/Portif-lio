@@ -245,7 +245,7 @@ header.sticky{
 }
 .col img{
     max-width: 100%;
-    width: 900px;
+    width: 500px;
     height: 500px;
     object-fit: cover;
     border-radius: 10px;
